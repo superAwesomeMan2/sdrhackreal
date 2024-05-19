@@ -1,0 +1,24 @@
+body {
+	font-family: sans-serif;
+}
+h2 {
+	text-shadow: red 1px 0 10px;
+	font-family: 'Abril Fatface';
+}
+img {
+	border: 4px solid Black;
+	border-radius: 400px;
+}
+p {
+	font-family: serif;
+}
+ul li {
+	font-family: serif;
+}
+em {
+	text-shadow: 1px 1px 1px red;
+}
+footer {
+	color: #D3D3D3;
+	font-family: sans-serif;
+}
